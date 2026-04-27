@@ -1,0 +1,7 @@
+playwright
+beautifulsoup4
+streamlit
+google-generativeai
+pandas
+python-dotenv
+groq

@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-groq
+pandas
+openpyxl
+playwright
+chromadb
+python-dotenv
+groq
+xlrd
+tabulate
+llama-index-embeddings-huggingface

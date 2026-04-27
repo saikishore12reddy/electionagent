@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Credentials
+.env
+
+# Data & Storage
+data/
+processed/
+storage/
+*.xlsx
+*.csv
+*.json
+!requirements.txt
+!README.md
+
+# Databases
+*.db
+*.sqlite
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Scratch files
+scratch/
+debug_*.py
+test_*.py
